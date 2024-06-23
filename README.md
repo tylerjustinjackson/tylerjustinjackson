@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 -->
-- 👨‍🔬 Data Scientist
+- 👨‍🔬 ML Researcher
 
 - 🏫 Belhaven University, Mathematics and Computer Science '26
 
