@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 - 🏫 Belhaven University, Mathematics and Computer Science '26
 
-- 🧪 Physics Minor!
+- 🧪 Physics, its so cool!
 
 - 💻 Top Languages are R, Python, and C, C++, Power BI
 
